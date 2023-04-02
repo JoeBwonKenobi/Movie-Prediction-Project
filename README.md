@@ -38,3 +38,20 @@ Below is a Visualization of  average budget differences between short (<120min) 
 
 To take this one step further, this is likely do to larger crowd appeal due to lack of age restrictions of lower certifications, meaning more people view these movies. Also parents must buy tickets for both their children, and themselves when going to see a G movie (potentially, more overall tickets sold) Our result is < (less than) our Alpha of 0.05, which means we: REJECT the Null Hypothesis (There is no difference in revenue generation between different movie ratings) SUPPORT the Alternate Hypothesis (There will be a statistical difference between revenue generation between movie certification)
 
+The stakeholder's THIRD question is: Does the certification (G, PG, PG-13, R) of a movie affect the movie's average rating?
+
+Null Hypothesis:There is no difference in ratings between movie certifications
+
+Alternate Hypothesis:There will be a statistical difference in ratings between movie certifications
+
+The barplot below is WITH outliers in the ratings column
+
+![image](https://user-images.githubusercontent.com/117705408/229327945-d3009623-a742-43cb-a27b-936d6ab2aff6.png)
+
+The barplot below is WITHOUT any outliers in the ratings column
+
+![image](https://user-images.githubusercontent.com/117705408/229327962-dbbce61c-22c9-4528-a292-e70b916fbae2.png)
+
+
+Our result is < (less than) our Alpha of 0.05, which means we: REJECT the Null Hypothesis (There is no difference in ratings between movie certifications ) SUPPORT the Alternate Hypothesis (There will be a statistical difference in ratings between movie certifications )
+
