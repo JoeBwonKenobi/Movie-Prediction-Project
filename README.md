@@ -10,3 +10,4 @@ Part 2: Use an API to extract box office revenue and profit data to add to your 
 Part 3: Construct and export a MySQL database using your data.
 
 Part 4: Apply hypothesis testing to explore what makes a movie successful.
+![image](https://user-images.githubusercontent.com/117705408/229327008-b6884f20-461a-4a69-9012-35f485153350.png)
