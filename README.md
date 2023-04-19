@@ -1,7 +1,7 @@
 # Movie Project
  
  
- This was my third and final projec during my time at Coding Dojo. For this project, I was required to produce a MySQL database on Movies from a subset of IMDB's publicly available dataset. Ultimately, I used this database to analyze what makes a movie successful and provided recommendations to the stakeholder on how to make a successful movie. There were serveral steps to completing this project and I split them up into separate notebooks since the file is so large.
+Produced a MySQL database of Movies from a subset of IMDB's publicly available dataset. I used this database to analyze what makes a movie successful and provided recommendations to the stakeholders on how to make a successful movie. There were serveral steps to completing this project and I split them up into separate notebooks since the files are so large.
  
 Part 1: Download several files from IMDB’s movie data set and filter out the subset of moves requested by the stakeholder.
 
