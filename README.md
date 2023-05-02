@@ -11,7 +11,7 @@ Part 3: Construct and export a MySQL database using your data.
 
 Part 4: Apply hypothesis testing to explore what makes a movie successful.
 
-## **Hypothesis Testing:**
+# **Hypothesis Testing:**
 This part of the project contained three questions from a stakeholder using hypothesis testing and statistics knowledge to answer 3 questions about what makes a successful movie.
 
 # **The stakeholder's 1st question is:**
