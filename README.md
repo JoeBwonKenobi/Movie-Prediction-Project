@@ -1,9 +1,9 @@
 # Movie Prediction Project
  
  
-I produced a MySQL database of Movies from a subset of IMDB's publicly available dataset. I used this database to analyze what makes a movie successful and provided recommendations to the stakeholders on how to make a successful movie. There were several steps to completing this project and I split them up into separate notebooks since the files are so large.
+I produced a MySQL database of movies from a subset of IMDB's publicly available dataset. I used this database to analyze what makes a movie successful and provided recommendations to the stakeholders on how to make a successful movie. There were several steps to completing this project, and I split them up into separate notebooks since the files are so large.
  
-Part 1: Download several files from IMDB’s movie data set and filter out the subset of moves requested by the stakeholder.
+Part 1: Download several files from IMDB's movie dataset and filter out the subset of movies requested by the stakeholders.
 
 Part 2: Use an API to extract box office revenue and profit data to add to your IMDB data and perform exploratory data analysis.
 
@@ -12,16 +12,15 @@ Part 3: Construct and export a MySQL database using your data.
 Part 4: Apply hypothesis testing to explore what makes a movie successful.
 
 # **Hypothesis Testing:**
-This part of the project contained three questions from a stakeholder using hypothesis testing and statistics knowledge to answer 3 questions about what makes a successful movie.
+This part of the project contained three questions from a stakeholder using hypothesis testing and statistics knowledge to answer three questions about what makes a successful movie.
 
-# **The stakeholder's 1st question is:**
-- does the MPAA rating of a movie (G/PG/PG-13/R) affect how much revenue the movie generates?
+# **#1:Does the MPAA rating of a movie (G/PG/PG-13/R) affect how much revenue the movie generates?**
 
 **Null Hypothesis:**
 There is no difference in revenue generation between different movie ratings
 
 **Alternate Hypothesis:**
-There will be a statistical difference between revenue generation between movie certification
+There will be a statistical difference between revenue generation between movie certifications.
 
 For this particular section I took a look at data WITH the outliers of the revenue column and assesd them to get a closesr look.
 
@@ -34,34 +33,34 @@ The barplot below represents the revenue for each of the certification categorie
 ![image](https://user-images.githubusercontent.com/117705408/229327093-7f61d1c3-38bd-415c-b742-1558d9726e3a.png)
 
 
-# **The stakeholder's second question is:**
-- Do movies with a runtime of 2 hours or more have higher budgets? 
+# **2:Do movies with a runtime of 2 hours or more have higher budgets?**
 
-**Null Hypothesis:** There is no difference in budget amounts for movies of 2 hours or more than movies shorter than 2 hours 
+**Null Hypothesis:** There is no difference in budget amounts for movies of 2 hours or more than movies shorter than 2 hours.
 
-**Alternate Hypothesis:** There will be a statistical difference between budget amounts for movies of 2 hours or more than movies shorter than 2 hours Alpha = 0.05 We will be using an 2 sample T-test
+**Alternate Hypothesis:** There will be a statistical difference between budget amounts for movies of 2 hours or more than movies shorter than 2 hours. Alpha = 0.05. We will be using a 2-sample T-test.
 
 Below is a Visualization of  average budget differences between short (<120min) movies and long (>=120min) movies
 
 ![image](https://user-images.githubusercontent.com/117705408/229327008-b6884f20-461a-4a69-9012-35f485153350.png)
 
-To take this one step further, this is likely do to larger crowd appeal due to lack of age restrictions of lower certifications, meaning more people view these movies. Also parents must buy tickets for both their children, and themselves when going to see a G movie (potentially, more overall tickets sold) Our result is < (less than) our Alpha of 0.05, which means we: REJECT the Null Hypothesis (There is no difference in revenue generation between different movie ratings) SUPPORT the Alternate Hypothesis (There will be a statistical difference between revenue generation between movie certification)
+To take this one step further, this is likely due to larger crowd appeal due to the lack of age restrictions of lower certifications, meaning more people view these movies. Also, parents must buy tickets for both their children and themselves when going to see a G movie (potentially, more overall tickets sold).
 
-# **The stakeholder's third question is:**
-Does the certification (G, PG, PG-13, R) of a movie affect the movie's average rating?
+Our result is less than our alpha of 0.05, which means we REJECT the Null Hypothesis (There is no difference in revenue generation between different movie ratings) and SUPPORT the Alternative Hypothesis (There will be a statistical difference between revenue generation between movie certifications).
 
-**Null Hypothesis:**There is no difference in ratings between movie certifications
+# **3:Does the certification (G, PG, PG-13, R) of a movie affect the movie's average rating?**
 
-**Alternate Hypothesis:**There will be a statistical difference in ratings between movie certifications
+**Null Hypothesis:**There is no difference in ratings between movie certifications.
 
-The barplot below is WITH outliers in the ratings column
+**Alternate Hypothesis:**There will be a statistical difference in ratings between movie certifications.
+
+The barplot below is WITH outliers in the ratings column.
 
 ![image](https://user-images.githubusercontent.com/117705408/229327945-d3009623-a742-43cb-a27b-936d6ab2aff6.png)
 
-The barplot below is WITHOUT any outliers in the ratings column
+The barplot below is WITHOUT any outliers in the ratings column.
 
 ![image](https://user-images.githubusercontent.com/117705408/229327962-dbbce61c-22c9-4528-a292-e70b916fbae2.png)
 
 
-Our result is < (less than) our Alpha of 0.05, which means we: REJECT the Null Hypothesis (There is no difference in ratings between movie certifications ) SUPPORT the Alternate Hypothesis (There will be a statistical difference in ratings between movie certifications )
+Our result is less than our alpha of 0.05, which means we REJECT the Null Hypothesis (There is no difference in ratings between movie certifications) and SUPPORT the Alternative Hypothesis (There will be a statistical difference in ratings between movie certifications).
 
