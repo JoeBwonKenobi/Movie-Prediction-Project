@@ -1,7 +1,7 @@
 # Movie Prediction Project
  
  
-I produced a MySQL database of Movies from a subset of IMDB's publicly available dataset. I used this database to analyze what makes a movie successful and provided recommendations to the stakeholders on how to make a successful movie. There were serveral steps to completing this project and I split them up into separate notebooks since the files are so large.
+I produced a MySQL database of Movies from a subset of IMDB's publicly available dataset. I used this database to analyze what makes a movie successful and provided recommendations to the stakeholders on how to make a successful movie. There were several steps to completing this project and I split them up into separate notebooks since the files are so large.
  
 Part 1: Download several files from IMDB’s movie data set and filter out the subset of moves requested by the stakeholder.
 
