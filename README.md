@@ -1,5 +1,7 @@
 # Movie Prediction Project
  
+ ![image](https://github.com/JoeBwonKenobi/Movie-Project-3/assets/117705408/d82c0f1d-b179-4672-abb2-104a18d292ce)
+
  
 I produced a MySQL database of movies from a subset of IMDB's publicly available dataset. I used this database to analyze what makes a movie successful and provided recommendations to the stakeholders on how to make a successful movie. There were several steps to completing this project, and I split them up into separate notebooks since the files are so large.
  
