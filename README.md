@@ -1,6 +1,6 @@
 # Movie Prediction Project
  
-         ![image](https://github.com/JoeBwonKenobi/Movie-Project-3/assets/117705408/4f9fcea0-ee1f-4e0d-ad4d-e3fd70b85336)
+   ![image](https://github.com/JoeBwonKenobi/Movie-Project-3/assets/117705408/4f9fcea0-ee1f-4e0d-ad4d-e3fd70b85336)
 
 
 
