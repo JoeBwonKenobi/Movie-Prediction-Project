@@ -14,7 +14,7 @@ Part 3: Construct and export a MySQL database using your data.
 
 Part 4: Apply hypothesis testing to explore what makes a movie successful.
 
-# **Hypothesis Testing:**
+# **Hypothesis Testing**
 This part of the project contained three questions from a stakeholder using hypothesis testing and statistics knowledge to answer three questions about what makes a successful movie.
 
 # **#1:Does the MPAA rating of a movie (G/PG/PG-13/R) affect how much revenue the movie generates?**
