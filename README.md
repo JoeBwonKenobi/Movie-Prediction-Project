@@ -31,7 +31,7 @@ Part 4: Apply hypothesis testing to explore what makes a movie successful.
 
 https://github.com/JoeBwonKenobi/Movie-Prediction-Project/blob/main/Movie_Project_Part_4.ipynb
 
-Part 5: Produce a linear Regression model tp predict movie performance.
+Part 5: Produce a linear Regression model to predict movie performance.
 
 -Below is the link for the notebook for this part of the project:
 
