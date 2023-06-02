@@ -8,8 +8,6 @@ I produced a MySQL database of movies from a subset of IMDB's publicly available
  
 Part 1: Download several files from IMDB's movie dataset and filter out the subset of movies requested by the stakeholders.
 
--Below is the link for the notebook for this part of the project:
-
 https://github.com/JoeBwonKenobi/Movie-Prediction-Project/blob/main/Movie_project_3.part_1.ipynb
 
 Part 2: Use an API to extract box office revenue and profit data to add to the IMDB data and perform exploratory data analysis.
@@ -21,19 +19,13 @@ https://github.com/JoeBwonKenobi/Movie-Prediction-Project/blob/main/Movie_Projec
 
 Part 3: Construct and export a MySQL database using the data.
 
--Below is the link for the notebook for this part of the project:
-
 https://github.com/JoeBwonKenobi/Movie-Prediction-Project/blob/main/Movie_Project_Part_3.ipynb
 
 Part 4: Apply hypothesis testing to explore what makes a movie successful.
 
--Below is the link for the notebook for this part of the project:
-
 https://github.com/JoeBwonKenobi/Movie-Prediction-Project/blob/main/Movie_Project_Part_4.ipynb
 
 Part 5: Produce a linear Regression model to predict movie performance.
-
--Below is the link for the notebook for this part of the project:
 
 https://github.com/JoeBwonKenobi/Movie-Prediction-Project/blob/main/Movie_Project_Part_5.ipynb
 
