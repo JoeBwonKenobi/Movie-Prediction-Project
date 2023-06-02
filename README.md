@@ -18,6 +18,7 @@ Part 3: Construct and export a MySQL database using your data.
 https://github.com/JoeBwonKenobi/Movie-Prediction-Project/blob/main/Movie_Project_Part_3.ipynb
 Part 4: Apply hypothesis testing to explore what makes a movie successful.
 -Below is the link for the notebook for this part of the project:
+https://github.com/JoeBwonKenobi/Movie-Prediction-Project/blob/main/Movie_Project_Part_4.ipynb
 Part 5: Produce a linear Regression model tp predict movie performance.
 # **Hypothesis Testing**
 This part of the project contained three questions from a stakeholder using hypothesis testing and statistics knowledge to answer three questions about what makes a successful movie.
