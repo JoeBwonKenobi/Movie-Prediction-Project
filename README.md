@@ -10,7 +10,8 @@ Part 1: Download several files from IMDB's movie dataset and filter out the subs
 -Below is the link for the notebook for this part of the project:
 https://github.com/JoeBwonKenobi/Movie-Prediction-Project/blob/main/Movie_project_3.part_1.ipynb
 Part 2: Use an API to extract box office revenue and profit data to add to your IMDB data and perform exploratory data analysis.
--Below is the link for the notebook for this part of the project:
+-Below are the links for the notebooks associated with this part of the project:
+https://github.com/JoeBwonKenobi/Movie-Prediction-Project/blob/main/Movie_project_3.part_2_A.ipynb
 Part 3: Construct and export a MySQL database using your data.
 -Below is the link for the notebook for this part of the project:
 Part 4: Apply hypothesis testing to explore what makes a movie successful.
