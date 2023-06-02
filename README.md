@@ -48,7 +48,7 @@ There is no difference in revenue generation between different movie ratings
 **Alternate Hypothesis:**
 There will be a statistical difference between revenue generation between movie certifications.
 
-For this particular section I took a look at data WITH the outliers of the revenue column and assessed them to get a closer look.
+For this particular section I looked at data WITH the outliers of the revenue column and assessed them to get a closer look.
 
 ![image](https://user-images.githubusercontent.com/117705408/229327831-3d07b7ba-b9d4-4bbd-8fdb-a424d1a9450c.png)
 
