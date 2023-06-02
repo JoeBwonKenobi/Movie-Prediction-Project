@@ -59,7 +59,7 @@ The barplot below represents the revenue for each of the certification categorie
 ![image](https://user-images.githubusercontent.com/117705408/229327093-7f61d1c3-38bd-415c-b742-1558d9726e3a.png)
 
 
-# **#2:Do movies with a runtime of 2 hours or more have higher budgets?**
+# **#2:Do movies with a runtime of two hours or more have higher budgets?**
 
 **Null Hypothesis:** There is no difference in budget amounts for movies of 2 hours or more than movies shorter than 2 hours.
 
