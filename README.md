@@ -36,7 +36,7 @@ The barplot below represents the revenue for each of the certification categorie
 ![image](https://user-images.githubusercontent.com/117705408/229327093-7f61d1c3-38bd-415c-b742-1558d9726e3a.png)
 
 
-# **2:Do movies with a runtime of 2 hours or more have higher budgets?**
+# **#2:Do movies with a runtime of 2 hours or more have higher budgets?**
 
 **Null Hypothesis:** There is no difference in budget amounts for movies of 2 hours or more than movies shorter than 2 hours.
 
@@ -50,7 +50,7 @@ To take this one step further, this is likely due to larger crowd appeal due to 
 
 Our result is less than our alpha of 0.05, which means we REJECT the Null Hypothesis (There is no difference in revenue generation between different movie ratings) and SUPPORT the Alternative Hypothesis (There will be a statistical difference between revenue generation between movie certifications).
 
-# **3:Does the certification (G, PG, PG-13, R) of a movie affect the movie's average rating?**
+# **#3:Does the certification (G, PG, PG-13, R) of a movie affect the movie's average rating?**
 
 **Null Hypothesis:**There is no difference in ratings between movie certifications.
 
