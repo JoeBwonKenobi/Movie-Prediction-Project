@@ -12,14 +12,14 @@ Part 1: Download several files from IMDB's movie dataset and filter out the subs
 
 https://github.com/JoeBwonKenobi/Movie-Prediction-Project/blob/main/Movie_project_3.part_1.ipynb
 
-Part 2: Use an API to extract box office revenue and profit data to add to your IMDB data and perform exploratory data analysis.
+Part 2: Use an API to extract box office revenue and profit data to add to the IMDB data and perform exploratory data analysis.
 
 -Below are the links for the notebooks associated with this part of the project:
 
 https://github.com/JoeBwonKenobi/Movie-Prediction-Project/blob/main/Movie_project_3.part_2_A.ipynb
 https://github.com/JoeBwonKenobi/Movie-Prediction-Project/blob/main/Movie_Project_part_2.B.ipynb
 
-Part 3: Construct and export a MySQL database using your data.
+Part 3: Construct and export a MySQL database using the data.
 
 -Below is the link for the notebook for this part of the project:
 
