@@ -1,6 +1,10 @@
 # **Movie Prediction Project**
- 
- ![image](https://github.com/JoeBwonKenobi/Movie-Project-3/assets/117705408/ec8610f9-9ce9-4fea-a857-ffd4e5013b64)
+
+
+<p align="center">
+  <img width = "75%" src="github.com/JoeBwonKenobi/Movie-Project-3/assets/117705408/ec8610f9-9ce9-4fea-a857-ffd4e5013b64" alt="Olympics emblem">
+</p>
+
 
 # **Project Overview**
  
