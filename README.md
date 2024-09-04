@@ -2,12 +2,11 @@
 
 
 <p align="center">
-  <img width = "75%" src="github.com/JoeBwonKenobi/Movie-Project-3/assets/117705408/ec8610f9-9ce9-4fea-a857-ffd4e5013b64">
+  <img width = "75%" src="https://github.com/user-attachments/assets/2d4a15fb-050e-4e40-ba97-f67de8df4c8a">
 </p>
 
-
 # **Project Overview**
- 
+
 I produced a MySQL database of movies from a subset of IMDB's publicly available dataset. I used this database to analyze what makes a movie successful and provided recommendations to the stakeholders on how to make a successful movie. There were several steps to completing this project, and I split them up into separate notebooks since the files are so large.
  
 Part 1: Download several files from IMDB's movie dataset and filter out the subset of movies requested by the stakeholders.
